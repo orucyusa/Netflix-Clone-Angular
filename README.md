@@ -6,22 +6,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Live With Vercel 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+https://netflix-clone-angular-nine.vercel.app/
 
-## Build
+## ScreenShots
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://github.com/orucyusa/Netflix-Clone-Angular/assets/72787078/0061d26d-6365-46ac-a12f-38236886c6d3)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://github.com/orucyusa/Netflix-Clone-Angular/assets/72787078/75a16691-5da8-4969-8385-ba2a90c4f3d0)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://github.com/orucyusa/Netflix-Clone-Angular/assets/72787078/c268d00f-e349-4356-a81c-16e1c7ca101d)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/orucyusa/Netflix-Clone-Angular/assets/72787078/ea9a8c2c-d472-4848-a0bc-3626d348db3f)
+
